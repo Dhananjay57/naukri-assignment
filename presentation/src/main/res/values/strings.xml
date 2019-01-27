@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Git JobSearch</string>
+    <string name="hint_owner_name">Owner</string>
+    <string name="hint_repo_name">Repository</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_cancel">Cancel</string>
+
+    <string name="label_pull_request_state_open">Open</string>
+    <string name="label_pull_request_state_closed">Closed</string>
+    <string name="label_pull_request_state_all">All</string>
+
+    <string name="label_sort_created">Created</string>
+    <string name="label_sort_updated">Updated</string>
+    <string name="label_sort_popularity">Popularity</string>
+
+    <string name="label_direction_desc">Desc</string>
+    <string name="label_direction_asc">Asc</string>
+    <string name="label_pull_request_state">State</string>
+    <string name="label_pull_request_sort">Sort</string>
+    <string name="label_pull_request_direction">Direction</string>
+    <string name="label_empty_state">No pull requests found.\nPlease try chaging the search parameters.</string>
+    <string name="clean_up_dependency_injection">Clean up Dependency Injection</string>
+    <string name="remove_most_of_our_legacy_manual_di_introduce_new_manualinjection_object_which_enables_use_of_producer_functions_by_providing_some_dependencies_which_are_required_throughout_the_data_services">Remove most of our legacy manual DI. Introduce new ManualInjection object which enables use of producer functions by providing some dependencies which are required throughout the data services.</string>
+    <string name="label_offline_result">Offline result</string>
+    <string name="label_offline_cache_inform">Search request and response are cached offline</string>
+
+
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="in_which_city_area_are_you_living">In which city/area are you living?</string>
+    <string name="search_my_location">Detect My Location</string>
+    <string name="search_city_name_here">Search city name here...</string>
+    <string name="delhi_13_kms_away">Delhi(13 kms away)</string>
+    <string name="salary">Salary</string>
+    <string name="_20_000_30_000_per_month">\u20B9 20,000 - 30,000 per month</string>
+    <string name="you_should_have">You should be</string>
+    <string name="marketing_team_leader">Marketing Team Leader</string>
+    <string name="_12th_pass">\u2022   12th Pass</string>
+    <string name="_36_jobs_around_you">0 Jobs Around You</string>
+    <string name="boa_village_civil_lines_delhi">Boa Village Civil Lines, Delhi</string>
+    <string name="change">Change</string>
+    <string name="have_minimum_1_2_years_experience">\u2022   Have minimum 1-2 years experience</string>
+    <string name="experience_in_real_estate">\u2022    Experience in Real Estate</string>
+    <string name="doy_you_find_this_job_useful">Doy you find this job useful?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="select_from_below">Select from below</string>
+    <string name="search_job">No item found please Search jobs</string>
+    <string name="fcm_message">Firebase Push Notification</string>
+
+    <string name="default_notification_channel_id">channelId</string>
+
+</resources>
